@@ -133,4 +133,9 @@ CREATE TABLE registrations (
 ```
 
 ---
+# dokumentasi
+![image](https://github.com/user-attachments/assets/8d21bd09-c171-4953-9376-ffa8315a172f)
+kemaren udh jalan, tpi ga di SS, sekarang udh dibagusin, eh XAMPP nya malah anomali bjir, ports Apachenya berubah jdi ga jelas, udah di cek ke folder conf file2 httpd nya ga ada yg salah, mysqlnya jga stuck di connecting T_T
+---
+![image](https://github.com/user-attachments/assets/6f75e34a-5ad1-44c9-8575-622338abbd84)
 
